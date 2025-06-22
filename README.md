@@ -2,7 +2,7 @@
 
 **Ongoing project** (excuse the mess)
 
-The idea of this project is to use an AI approach to generate images from my music using a combination of CNN and Diffusion Models. The model will be trained (or fine-tuned) on the association of my music with my 3D renders in order to have image generation that follows the aesthetic vision of the project. 
+The idea of this project is to use an AI approach to generate images from my music using a combination of CNN and Diffusion Models. The models will be trained (or fine-tuned) on the association of my music with my 3D renders in order to have image generation that follows the aesthetic vision of my artistic project. 
 
 Outline of the project:
 1- Audio file gets converted into Mel Spectrogram 
